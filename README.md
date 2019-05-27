@@ -7,7 +7,7 @@ This script is written with Perl for getting infomation from the genebank file(.
 
 # Usage
 windows: perl gbk_deal.plx<br> 
-linux: gbk_deal.plx<br>
+linux: add "#!/usr/bin/perl" at the begining and then run gbk_deal.plx<br>
 
 # Tested genomes with problems
 
