@@ -1,9 +1,9 @@
 
-dealing-with-genebank-file
+Dealing-with-genebank-file
 =======================
 
 # Description
-This is for getting infomation from the genebank file(.gbff, .gb, .gbk). Features will be extracted to be shown in tab dilimiteded format.
+This script is written with Perl for getting infomation from the genebank file(.gbff, .gb, .gbk). Features will be extracted to be shown in tab dilimiteded format.
 
 # Tested genomes
 Bacterodes fragilis YCH46<br>
