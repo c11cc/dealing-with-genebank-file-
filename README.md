@@ -1,12 +1,16 @@
-# dealing-with-genebank-file-
+
+dealing-with-genebank-file
+=======================
+
+# Description
 This is for getting infomation from the genebank file(.gbff). Features will be extracted to be shown in tab dilimiteded format.
 
 # Tested genomes
-Bacterodes fragilis YCH46\n
-Escherichi Ecoli MG1655\n
-Cytophaga hutchinsonii ATCC 33406\n
-Flavobacterium johnsoniae UW101\n
-Flavobacterium psychrophilum JIP02/86\n
-Porphyromonas gingivalis ATCC 33277\n
-Saccharomyces cerevisiae S288c\n
-Yarrowia lipolytica strain CLIB89(W29)\n
+Bacterodes fragilis YCH46<br>
+Escherichi Ecoli MG1655<br>
+Cytophaga hutchinsonii ATCC 33406<br>
+Flavobacterium johnsoniae UW101<br>
+Flavobacterium psychrophilum JIP02/86<br>
+Porphyromonas gingivalis ATCC 33277<br>
+Saccharomyces cerevisiae S288c<br>
+Yarrowia lipolytica strain CLIB89(W29)<br>
