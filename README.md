@@ -3,7 +3,7 @@ Dealing-with-genebank-file
 =======================
 
 # Description
-This script is written with Perl for getting infomation from the genebank file(.gbff, .gb). Features will be extracted to be shown in tab dilimited format.
+This script is written with Perl for getting infomation from the genebank file(.gbff, .gb). Features will be extracted to be shown in tab dilimited format.Absent information will be shown as na.
 
 # Tested genomes with problems
 
